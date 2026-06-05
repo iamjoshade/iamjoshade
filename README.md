@@ -1,6 +1,6 @@
 # Hi, I'm Josh Ade
 
-Co-founder and lead developer of [**Built For Small Business**](https://builtforsmallbusiness.com) — a free, production-grade business management platform serving UK and Nigerian SMEs.
+Co-founder and lead developer of [**Built For Small Business**](https://builtforsmallbusiness.com) — a free, production-grade business management platform serving UK SMEs.
 
 I build full-stack web applications with Laravel. I care about shipping real things that solve real problems, writing clean, maintainable code, and understanding the business context behind every feature.
 
@@ -8,13 +8,13 @@ I build full-stack web applications with Laravel. I care about shipping real thi
 
 ##  What I'm building — Built For Small Business
 
-> A free all-in-one platform covering invoicing, expenses, payroll, client management, and financial reporting, built for small businesses in the UK and Nigeria.
+> A free all-in-one platform covering invoicing, expenses, payroll, client management, and financial reporting, built for small businesses in the UK.
 
 **Live at → [builtforsmallbusiness.com](https://builtforsmallbusiness.com)**
 
 ### The problem it solves
 
-Most accounting tools are either too expensive, too complex, or ignore non-Western markets entirely. BFSB is permanently free at its core, with UK and Nigerian compliance built in — not bolted on.
+Most accounting tools are either too expensive, too complex, or ignore non-Western markets entirely. BFSB is permanently free at its core, with UK and compliance built in, not bolted on.
 
 ### What I built
 
