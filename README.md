@@ -1,6 +1,6 @@
 # Hi, I'm Josh Ade
 
-Co-founder and lead developer of [**Built For Small Business**](https://builtforsmallbusiness.com) — a free, production-grade business management platform serving UK SMEs.
+Co-founder and lead developer of [**Built For Small Business**](https://builtforsmallbusiness.com), a free, production-grade business management platform serving UK SMEs.
 
 I build full-stack web applications with Laravel. I care about shipping real things that solve real problems, writing clean, maintainable code, and understanding the business context behind every feature.
 
