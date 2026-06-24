@@ -71,7 +71,6 @@ Other:         REST APIs, queued jobs, PDF generation, Excel/CSV pipelines
 
 - 🌐 [builtforsmallbusiness.com](https://builtforsmallbusiness.com)
 - 🐦 [@manlikeroot](https://x.com/manlikeroot)
-- 💼 Open to remote Laravel roles
 
 ---
 
