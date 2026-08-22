@@ -1,77 +1,99 @@
-# Hi, I'm Josh Ade
+# Hi, I'm Josh Ade 👋
 
-Lead developer of [**Built For Small Business**](https://builtforsmallbusiness.com), a free, production-grade business management platform serving UK SMEs.
+Full-Stack Laravel Engineer & SaaS Founder
 
-I build full-stack web applications with Laravel. I care about shipping real things that solve real problems, writing clean, maintainable code, and understanding the business context behind every feature.
+I build production software used by real businesses.
 
----
+Currently leading development of Built For Small Business, a business management platform covering invoicing, payroll, expenses, financial reporting, Stripe billing, and compliance workflows.
 
-##  What I'm building — Built For Small Business
+### What I do
 
-> A free all-in-one platform covering invoicing, expenses, payroll, client management, and financial reporting, built for small businesses in the UK.
+- Build SaaS applications with Laravel
+- Design business-critical systems
+- Integrate payment platforms and third-party APIs
+- Create secure import/export workflows
+- Turn real business problems into software products
 
-**Live at → [builtforsmallbusiness.com](https://builtforsmallbusiness.com)**
+🌐 Portfolio: https://iamjoshade.com
+🚀 Product: https://builtforsmallbusiness.com
 
-### The problem it solves
+## Why I'm Different
 
-Most accounting tools are either too expensive, too complex, or ignore non-Western markets entirely. BFSB is permanently free at its core, with UK and compliance built in, not bolted on.
+✅ Built and maintain a production SaaS platform
 
-### What I built
+✅ Experience with payments, subscriptions, refunds, and billing
 
-| Module | What it does |
-|---|---|
-| **Invoicing** | Create, send, and track invoices with Stripe payment integration and a 0.5% platform fee model |
-| **Expenses** | Log, categorise, and bulk import expenses (CSV/XLSX) with magic byte validation and queued processing |
-| **Payroll** | Full payslip generation with country-conditional columns (UK PAYE vs Nigerian tax logic) |
-| **Financial Reporting** | Profit & Loss reports with PDF export, tax year scoping (GB: April–March, NG: calendar year) |
-| **Subscriptions** | Stripe billing with cancel/refund flows, plan tier gating, and a Business plan gifting system |
-| **PDF Generation** | Browsershot/Puppeteer for invoice and report PDFs, including base64 font embedding for reliable rendering |
-| **Data Export** | Multi-sheet Excel exports via Maatwebsite, CSV/XLSX import pipelines with security hardening |
-| **Blog & Content** | AI-powered content pipeline using the Anthropic API for voiceover scripts and audio generation |
+✅ Designed multi-country tax and compliance workflows
 
-### Architecture decisions worth knowing about
+✅ Built reporting, payroll, invoicing, and financial systems
 
-- **Multi-country tax logic** via `TaxYearService` with `scopeForTaxYear` scoped across invoices, expenses, and payslips — one codebase handles GB and NG compliance correctly
-- **Subscription hardening** — corrected Stripe API version compatibility for refunds, implemented live Stripe status checks in cancellation logic, tracked payment intents separately from subscriptions
-- **Import security** — CSV/XLSX expense imports validate mime type *and* magic bytes before queued processing, preventing spoofed file uploads
-- **PDF reliability** — base64-encoded fonts loaded at render time, so Browsershot/Puppeteer produces consistent output across environments
-- **Dashboard caching** — `Cache::remember` across expensive aggregates to keep the dashboard fast without a dedicated data layer
-- **Paywall pattern** — feature discovery modal that gates on plan tier without blocking exploration, keeping the free tier genuinely useful
+✅ Product-minded developer who understands both engineering and business requirements
 
-### Tech stack
+## Featured Project
 
-```
-Backend:    Laravel 12, PHP, MySQL
-Frontend:   Blade, Bootstrap, Alpine.js, Chart.js
-Payments:   Stripe (subscriptions, refunds, payment intents)
-PDFs:       Browsershot + Puppeteer, base64 font loading
-Exports:    Maatwebsite Excel (multi-sheet), custom CSV pipeline
-Storage:    Cloudflare R2 (backups), Namecheap VPS
-Queue:      Laravel jobs for import processing, email dispatch
-APIs:       Anthropic (content pipeline), ElevenLabs (audio)
-Tax/Compliance: UK (HMRC MTD registered), Nigeria (calendar year)
-```
+### Built For Small Business
 
----
+An all-in-one platform for SMEs covering:
 
-## 🛠 Skills
+- Invoicing
+- Payroll
+- Expenses
+- Financial reporting
+- Stripe subscriptions
+- PDF generation
+- Data imports and exports
 
-```
-Languages:     PHP, JavaScript, HTML/CSS
-Frameworks:    Laravel, Alpine.js, Bootstrap
-Databases:     MySQL
-Tools:         Git, Composer, npm, Puppeteer
-Integrations:  Stripe, Cloudflare, Anthropic API
-Other:         REST APIs, queued jobs, PDF generation, Excel/CSV pipelines
-```
+Tech:
+Laravel · MySQL · Stripe · Alpine.js · Cloudflare R2 · Puppeteer
 
----
+## Notable Engineering Work
 
-## Let's connect
+- Designed multi-country tax architecture using a central TaxYearService
+- Implemented Stripe subscription lifecycle handling, refunds, cancellations, and gifting
+- Built secure CSV/XLSX import pipelines with validation and queued processing
+- Generated reliable PDF reports using Browsershot/Puppeteer with embedded fonts
+- Optimised dashboard performance through aggregate caching strategies
+- Created AI-driven content workflows using Anthropic and ElevenLabs APIs
 
-- 🌐 [builtforsmallbusiness.com](https://builtforsmallbusiness.com)
-- 🐦 [@manlikeroot](https://x.com/manlikeroot)
+## Currently Interested In
 
----
+- Remote Laravel opportunities
+- SaaS architecture
+- Payments and fintech systems
+- Open source Laravel packages
 
-*"If it doesn't challenge you, it won't change you."*
+
+Open to remote opportunities in:
+- Laravel Engineering
+- Full-Stack Development
+- SaaS Product Development
+
+
+## Tech Stack
+
+### Backend
+Laravel · PHP · MySQL · REST APIs
+
+### Frontend
+Alpine.js · Bootstrap · Chart.js
+
+### Infrastructure
+Cloudflare R2 · Linux VPS · Queue Processing
+
+### Payments
+Stripe Subscriptions · Payment Intents · Refund Flows
+
+### Integrations
+Anthropic API · ElevenLabs · HMRC MTD
+
+### Tooling
+Git · Composer · npm · Puppeteer
+
+
+
+## Featured Repositories
+
+- BFSB Case Study
+- Laravel Package
+- API Project
+- Open Source Utilities
