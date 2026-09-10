@@ -4,7 +4,7 @@ Full-Stack Laravel Engineer creating one saas project at a time
 
 I build production software used by real businesses.
 
-Currently leading development of Built For Small Business, a business management platform covering invoicing, payroll, expenses, financial reporting, Stripe billing, and compliance workflows.
+Currently leading development of Built For Small Business, a business management platform covering invoicing, accountant collaboration, expenses tracking, financial reporting, Stripe billing, and compliance workflows.
 
 ### What I do
 
@@ -23,9 +23,7 @@ Currently leading development of Built For Small Business, a business management
 
 ✅ Experience with payments, subscriptions, refunds, and billing
 
-✅ Designed multi-country tax and compliance workflows
-
-✅ Built reporting, payroll, invoicing, and financial systems
+✅ Built reporting, Accountant Collaboration, invoicing, and financial systems
 
 ✅ Product-minded developer who understands both engineering and business requirements
 
@@ -33,10 +31,10 @@ Currently leading development of Built For Small Business, a business management
 
 ### Built For Small Business
 
-An all-in-one platform for SMEs covering:
+A platform for SMEs covering:
 
 - Invoicing
-- Payroll
+- Accountant Collaboration
 - Expenses
 - Financial reporting
 - Stripe subscriptions
@@ -60,7 +58,7 @@ Laravel · MySQL · Stripe · Alpine.js · Cloudflare R2 · Puppeteer
 - Remote Laravel opportunities
 - SaaS architecture
 - Payments and fintech systems
-- Open source Laravel packages
+- Open-source Laravel packages
 
 
 Open to remote opportunities in:
