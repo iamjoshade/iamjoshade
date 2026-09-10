@@ -1,6 +1,6 @@
 # Hi, I'm Josh Ade 👋
 
-Full-Stack Laravel Engineer & SaaS Founder
+Full-Stack Laravel Engineer creating one saas project at a time
 
 I build production software used by real businesses.
 
