@@ -18,9 +18,9 @@ Currently leading development of Built For Small Business, a business management
 
 🚀 Product: https://builtforsmallbusiness.com
 
-## Screenshot
+## Home Page
 
-![Image description](https://builtforsmallbusiness.com/frontend/dist/img/dashboard.webp)
+![Image description](https://github.com/iamjoshade/iamjoshade/blob/823c5ce2fbc6ac0d4d212c09442a76f0ee7a86b9/homepage-screenshot)
 
 ## Why I'm Different
 
