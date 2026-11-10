@@ -1,10 +1,10 @@
 # Hi, I'm Josh Ade 👋
 
-Full-Stack Laravel Engineer creating one saas project at a time
+Full-Stack Laravel Engineer building production SaaS applications.
 
 I build production software used by real businesses.
 
-Currently leading development of Built For Small Business, a business management platform covering invoicing, accountant collaboration, expenses tracking, financial reporting, Stripe billing, and compliance workflows.
+Currently leading development of Built For Small Business, a business management platform covering invoicing, accountant collaboration, expense tracking, financial reporting, Stripe billing, and compliance workflows.
 
 ### What I do
 
@@ -15,7 +15,12 @@ Currently leading development of Built For Small Business, a business management
 - Turn real business problems into software products
 
 🌐 Portfolio: https://iamjoshade.com
+
 🚀 Product: https://builtforsmallbusiness.com
+
+## Screenshot
+
+![Image description](https://builtforsmallbusiness.com/frontend/dist/img/dashboard.webp)
 
 ## Why I'm Different
 
@@ -86,12 +91,3 @@ Anthropic API · ElevenLabs · HMRC MTD
 
 ### Tooling
 Git · Composer · npm · Puppeteer
-
-
-
-## Featured Repositories
-
-- BFSB Case Study
-- Laravel Package
-- API Project
-- Open Source Utilities
