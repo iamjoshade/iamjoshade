@@ -14,13 +14,19 @@ Currently leading development of Built For Small Business, a business management
 - Create secure import/export workflows
 - Turn real business problems into software products
 
-🌐 Portfolio: https://iamjoshade.com
 
 🚀 Product: https://builtforsmallbusiness.com
 
 ## Home Page
 
 ![Image description](https://github.com/iamjoshade/iamjoshade/blob/823c5ce2fbc6ac0d4d212c09442a76f0ee7a86b9/homepage-screenshot)
+
+🌐 Portfolio: https://iamjoshade.com
+
+## Personal Home page
+
+![Image description](https://github.com/iamjoshade/iamjoshade/blob/01e0bb1e08f28a3741243cd25d4055818da0d4db/personal-leading-page.png)
+
 
 ## Why I'm Different
 
