@@ -29,7 +29,6 @@ Production SaaS platform for UK self-employed / sole-trader
 
 My personal portfolio showcasing my software engineering experience, projects, and technical skills.
 
-![Personal Portfolio Homepage](https://github.com/iamjoshade/iamjoshade/blob/823c5ce2fbc6ac0d4d212c09442a76f0ee7a86b9/homepage-screenshot)
 
 ![Image description](https://github.com/iamjoshade/iamjoshade/blob/01e0bb1e08f28a3741243cd25d4055818da0d4db/personal-leading-page.png)
 
